@@ -1,0 +1,1 @@
+Just clone this repo into ~/.oh-my-zsh/custom/plugins/grm/
